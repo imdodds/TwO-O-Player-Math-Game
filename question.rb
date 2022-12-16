@@ -1,4 +1,4 @@
-class Questions
+class Question
   attr_accessor :answer
 
   def generate_question(player)
